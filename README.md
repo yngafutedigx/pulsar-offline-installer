@@ -5,10 +5,10 @@
   <img src="https://img.shields.io/badge/Rating-4.9%2F5-F9A825?style=for-the-badge&logo=star" />
   <img src="https://img.shields.io/badge/Version-2026-101010?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS-informational?style=for-the-badge&logo=windows" />
-  <img src="https://img.shields.io/badge/Category-Code+Editor-E63946?style=for-the-badge&logo=appstore" />
+  <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Pulsar Free Installer** — Pulsar is a community-led open-source code editor forked from GitHub's Atom editor, which was discontinued in 2022. Works without internet access, no account required. Full offline installation.
+**💻 Pulsar Free Installer** — Pulsar is a free, community-led fork of the discontinued Atom editor, preserving its package ecosystem and hackable architecture. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Pulsar
 
-Pulsar is a community-led open-source code editor forked from GitHub's Atom editor, which was discontinued in 2022. Maintaining Atom's package ecosystem with thousands of community packages, Pulsar keeps the beloved Atom experience alive with modern updates, bug fixes, and new features. For developers who loved Atom's customizable, hackable approach to code editing, Pulsar is its natural successor.
+Pulsar is a free, community-led fork of the discontinued Atom editor, preserving its package ecosystem and hackable architecture. It provides a full-featured coding environment with thousands of packages for language support, linting, and version control.
 
 ---
 
 ## ❌ Problem: Pulsar is hard to access
 
-- **Performance** — Electron-based performance less fast than native editors
-- **Package Compatibility** — Some Atom packages may need updates to work with Pulsar
-- **Community Size** — Smaller than VS Code community
-- **Long-term Uncertainty** — Community-driven projects depend on volunteer maintenance
+- **Atom Architecture Limitations** — Inherits Atom's Electron-based performance constraints
+- **Future Uncertainty** — Community-maintained with no company backing
+- **VS Code Competition** — VS Code offers better performance with a larger, more active ecosystem
+- **Package Maintenance** — Some Atom packages unmaintained since Atom's discontinuation
 
 ---
 
@@ -121,7 +121,7 @@ Pulsar is a community-led open-source code editor forked from GitHub's Atom edit
 
 ---
 
-**Pulsar Free Installer** — Pulsar is a community-led open-source code editor forked from GitHub's Atom editor, which was discontinued in 2022. Install without internet connection today!
+**Pulsar Free Installer** — Pulsar is a free, community-led fork of the discontinued Atom editor, preserving its package ecosystem and hackable architecture. Install without internet connection today!
 
 <div align="center">
 
